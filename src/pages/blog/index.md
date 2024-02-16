@@ -1,14 +1,14 @@
 ---
 templateKey: blog-archive
-published: true
-schemaType: WebPage
 pageSlug: /blog
 pageTitle: Blog
-metaDescription: '{{client_name}}’s blog'
-header: '{{client_name}}’s Blog'
-subheader: ~
+metaDescription: Blog | John Steven Mullaly, Managing Director of LifeSci Advisors
+published: true
+schemaType: WebPage
+header: John Steven Mullaly’s Blog
+subheader: null
 featuredImage:
-  src: ~
-  alt: ~
-  caption: ~
+  ? src
+  ? alt
+  ? caption
 ---
