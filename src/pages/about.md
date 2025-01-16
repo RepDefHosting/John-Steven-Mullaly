@@ -23,8 +23,9 @@ longBiography_MD: >-
   sector.
 
 
-  [Mr. Mullaly](https://johnstevenmullaly.wordpress.com/) serves as a Managing Director at LifeSci Advisors in Boston. This position allows him to work directly with promising small and mid-cap biotechnology companies. He facilitates both institutional and high net worth investor engagement, advises on the capital markets including initial public offerings and works with dedicated teams to develop and optimized investor messaging.
+  Mr. Mullaly is currently a private investor in the life sciences industry and most recently served as a Managing Director at LifeSci Advisors in Boston where he advised small and mid cap biotechnology companies on institutional investor relations. In this capacity, Mr. Mullaly leveraged his extensive work experience as a Institutional Equity Healthcare Specialist at several top tier investment banks. 
 
 
-  When he isn’t working or relaxing in his Cohasset home, [Mr. Mullaly](https://johnstevenmullaly.tumblr.com/) likes to stay fit by running. His other favorite recreational and athletic activities include skiing and mountain biking.
+
+  When not working out of Cohasset, Mr. Mullaly volunteers for a New England based adaptive ski program and is an avid skier and mountain biker.
 ---
