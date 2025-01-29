@@ -23,9 +23,10 @@ longBiography_MD: >-
   sector.
 
 
-  Mr. Mullaly is currently a private investor in the life sciences industry and most recently served as a Managing Director at LifeSci Advisors in Boston where he advised small and mid cap biotechnology companies on institutional investor relations. In this capacity, Mr. Mullaly leveraged his extensive work experience as a Institutional Equity Healthcare Specialist at several top tier investment banks. 
-
-
-
-  When not working out of Cohasset, Mr. Mullaly volunteers for a New England based adaptive ski program and is an avid skier and mountain biker.
----
+Mr Mullaly is currently a private investor in the life sciences industry and most recently
+served as a Managing Director at LifeSci Advisors in Boston where he advised small
+and mid cap biotechnology companies on institutional investor relations. In this
+capacity, Mr. Mullaly leveraged his extensive work experience as a Institutional Equity
+Healthcare Specialist at several top tier investment banks.
+When not working out of Cohasset, Mr. Mullaly volunteers for a New England based
+adaptive ski program and is an avid skier and mountain biker.
